@@ -1,0 +1,10 @@
+.image-js-stack {
+    height: 400px;
+    width: auto;
+    border: none !important
+}
+
+.file-name-js ::before {
+    content: ' ';
+    background-image: url(file:///Users/sasha/.vscode/extensions/PKief.material-icon-theme-1.2.0/fileicons/icons/javascript.svg);
+}
